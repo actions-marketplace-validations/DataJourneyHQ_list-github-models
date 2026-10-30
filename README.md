@@ -3,6 +3,13 @@
 [![GitHub release](https://img.shields.io/github/release/datajourneyhq/list-github-models.svg)](https://github.com/datajourneyhq/list-github-models/releases)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-list--github--models-blue?logo=github)](https://github.com/marketplace/actions/list-github-models)
 
+> [!IMPORTANT]
+> **This action is retired**
+>
+> GitHub retired GitHub Models and its catalog API on **July 30, 2026**. This action is no longer maintained.
+>
+> The documentation, examples, and screenshots below are preserved for historical reference. [Read GitHub’s retirement announcement →](https://github.blog/changelog/2026-07-30-github-models-is-now-retired/)
+
 Fetch GitHub AI models catalog and uploads it as an artifact for daily tracking and analysis.
 
 ## Inspiration  
